@@ -4,7 +4,7 @@
 
 ### 💻 Developer · 🧩 Problem Solver · 🚀 Always Building
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+Boot+%7C+JavaScript;Grinding+LeetCode+one+problem+at+a+time;Building+real-time+apps+%26+algorithms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+JavaScript;Solving+LeetCode+daily;Building+real-time+apps+%26+algorithms" alt="Typing SVG" />
 
 </div>
 
@@ -22,18 +22,17 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Mallikarjun202?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/Mallikarjun202?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 
 </div>
 
-## 📈 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mallikarjun202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com?user=Mallikarjun202&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mallikarjun202&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution Graph" />
 
 </div>
 
