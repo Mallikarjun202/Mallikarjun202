@@ -38,17 +38,17 @@ I'm a developer passionate about building robust, real-time applications and sol
     <td valign="top" width="50%">
       <h3>🎓 Background</h3>
       <ul>
-        <li><b>Instructor</b> at <code>[Institution Name]</code></li>
+        <li><b>Teaching Assistant </b> at <code> New York Institute of Technology </code></li>
         <p><em>Instructing and evaluating coursework in Machine Learning.</em></p>
-        <li><b>[Degree, e.g., B.S. Computer Science]</b></li>
-        <p><em><code>[University Name]</code>, Graduated: [Year]</em></p>
+        <li><b>Degree: Master's in Computer Science at NYIT @2026 </b></li>
+        <p><em><code>New York Institute of Technology</code>, Graduated: 2026 </em></p>
       </ul>
     </td>
     <td valign="top" width="50%">
       <h3>🌱 Currently Focusing On</h3>
       <ul>
-        <li><b>Learning:</b> <code>[e.g., Docker, Kubernetes, React]</code></li>
-        <li><b>Exploring:</b> <code>[e.g., Microservices, Cloud Architecture]</code></li>
+        <li><b>Learning:</b> <code>Docker, Kubernetes, React</code></li>
+        <li><b>Exploring:</b> <code>Microservices, Cloud Architecture</code></li>
         <li><b>Building:</b> Scalable backend systems and optimizing algorithmic efficiency.</li>
       </ul>
     </td>
